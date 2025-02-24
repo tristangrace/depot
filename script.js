@@ -5,6 +5,10 @@ document.addEventListener('DOMContentLoaded', function() {
     const endYear = 2027;
     const bookingData = {
         // **MANUALLY ADD YOUR BOOKINGS HERE**
+         // **MAKE SURE TO UPDATE THE VERSION NUMBER TO BUST THE CACHE!!!**
+          // **MAKE SURE TO UPDATE THE VERSION NUMBER TO BUST THE CACHE!!!**
+           // **MAKE SURE TO UPDATE THE VERSION NUMBER TO BUST THE CACHE!!!**
+            // **MAKE SURE TO UPDATE THE VERSION NUMBER TO BUST THE CACHE!!!**
         '2025-03-06': 'Megan & James',
         '2025-03-07': 'Megan & James',
         '2025-03-08': 'Megan & James',
@@ -20,6 +24,10 @@ document.addEventListener('DOMContentLoaded', function() {
         '2026-03-01': 'Bob Builder',
         '2027-04-15': 'Charlie Chaplin'
         // Add more dates and names as needed.  Use the YYYY-MM-DD format.
+        // **MAKE SURE TO UPDATE THE VERSION NUMBER TO BUST THE CACHE!!!**
+          // **MAKE SURE TO UPDATE THE VERSION NUMBER TO BUST THE CACHE!!!**
+           // **MAKE SURE TO UPDATE THE VERSION NUMBER TO BUST THE CACHE!!!**
+            // **MAKE SURE TO UPDATE THE VERSION NUMBER TO BUST THE CACHE!!!**
     };
 
     // Function to check if a date is booked
