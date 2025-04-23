@@ -28,6 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
         '2025-05-08': 'Dave',
         '2025-05-09': 'Dave',
         '2025-05-10': 'Dave',
+        '2025-05-11': 'Dave',
         '2025-04-26': 'Depot Beach BBQ',
         '2026-03-01': 'Bob Builder',
         '2027-04-15': 'Charlie Chaplin'
